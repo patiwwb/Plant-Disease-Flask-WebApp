@@ -8,3 +8,4 @@ Werkzeug==2.0.1
 Pillow==7.2.0
 itsdangerous==2.1.2
 MarkupSafe==2.0.1
+gunicorn==19.9.0
