@@ -74,7 +74,7 @@ pandas-profiling==1.4.1
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
-Pillow==8.4.0
+Pillow==7.2.0
 pip==21.2.2
 plotly==5.4.0
 prometheus-client==0.12.0
